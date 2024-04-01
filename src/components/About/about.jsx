@@ -17,7 +17,7 @@ export default function About() {
           </p>
           <button type="button">Read More</button>
         </div>
-        <img src="images/self2.jpg" alt="" />
+        <img src="https://ibb.co/rMTTkDf" alt="" />
       </div>
     </section>
   );

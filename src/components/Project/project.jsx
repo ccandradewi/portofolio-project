@@ -13,11 +13,11 @@ export default function Project() {
           <span id="slide-4"></span>
           <span id="slide-5"></span>
           <div className="images">
-            <img src="images/OLX.png" alt="" />
-            <img src="images/The Band 1.png" alt="" />
-            <img src="images/The Band 2.png" alt="" />
-            <img src="images/todolist.png" alt="" />
-            <img src="images/glory.png" alt="" />
+            <img src="https://ibb.co/T17LC1r" alt="" />
+            <img src="https://ibb.co/tzMcBMt" alt="" />
+            <img src="https://ibb.co/gvr7Yrx" alt="" />
+            <img src="https://ibb.co/X7QPZTf" alt="" />
+            <img src="https://ibb.co/7YP83X7" alt="" />
           </div>
         </div>
       </div>

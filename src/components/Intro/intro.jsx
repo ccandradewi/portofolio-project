@@ -4,7 +4,7 @@ export default function Intro() {
       <div className="w-1/2 content-center">
         <img
           className="max-w-full pt-9 pl-44 mt-16 items-center content-center"
-          src="images/selfFix.png"
+          src="https://ibb.co/6DntLCZ"
           alt=""
         />
       </div>
